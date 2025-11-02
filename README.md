@@ -5,14 +5,16 @@ It automates **ticket creation, categorization, and assignment** to ensure faste
 By replacing manual ticket handling with an automated system, it enhances **efficiency, transparency, and service quality**.
 
 
- 👥 Team Information
+👥 Team Information
 
-Role         | Details
--------------------------------
-Team ID      | NM2025TMID02018 
-Project Name | Streamlining Ticket Assignment for Efficient Support Operations 
-Team Leader  | Blessy J G 
-Team Member1 | Anusha K 
+| **Role** | **Details** |
+|-----------|--------------|
+| **Team ID** | NM2025TMID02018 |
+| **Project Name** | Streamlining Ticket Assignment for Efficient Support Operations |
+| **Team Size** | 2 Members |
+| **Team Leader** | Blessy J G |
+| **Team Member 1** | Anusha K |
+
 
 
 🔗 ServiceNow Instance
