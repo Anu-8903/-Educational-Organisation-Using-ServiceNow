@@ -18,7 +18,7 @@ By replacing manual ticket handling with an automated system, it enhances **effi
 
 
 🔗 ServiceNow Instance
-[🔗 View ServiceNow Instance]([https://dev293866.service-now.com/now/nav/ui/classic/params/target/ui_page.do%3Fsys_id%3D18c0c01bc3343210e2b9921ed4013160](https://dev274237.service-now.com/now/nav/ui/classic/params/target/u_operation_related.do%3Fsys_id%3D-1%26sys_is_list%3Dtrue%26sys_target%3Du_operation_related%26sysparm_checked_items%3D%26sysparm_fixed_query%3D%26sysparm_group_sort%3D%26sysparm_list_css%3D%26sysparm_query%3D%26sysparm_referring_url%3Du_operation_related_list.do%26sysparm_target%3D%26sysparm_view%3D))
+([https://dev293866.service-now.com/now/nav/ui/classic/params/target/ui_page.do%3Fsys_id%3D18c0c01bc3343210e2b9921ed4013160](https://dev274237.service-now.com/now/nav/ui/classic/params/target/u_operation_related.do%3Fsys_id%3D-1%26sys_is_list%3Dtrue%26sys_target%3Du_operation_related%26sysparm_checked_items%3D%26sysparm_fixed_query%3D%26sysparm_group_sort%3D%26sysparm_list_css%3D%26sysparm_query%3D%26sysparm_referring_url%3Du_operation_related_list.do%26sysparm_target%3D%26sysparm_view%3D))
 
 🎥 Demo Video
 [🎬 Watch Project Demo](https://drive.google.com/file/d/1ENVv7MkojBQXrB_nP3QyxrdzvTuzTMcH/view?usp=sharing)
